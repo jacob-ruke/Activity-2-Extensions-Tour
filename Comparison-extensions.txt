@@ -1,0 +1,3 @@
+Comparison of VS Code Extensions
+
+Python, Java, Prettier, GitLens, and Live Share provide different features that improve the development experience in VS Code. The Python and Java extensions help developers write, run, and debug programs in their respective languages. Prettier automatically formats code to maintain consistent styling and readability. GitLens helps track code changes by displaying Git blame annotations, author details, and commit history. Live Share allows multiple developers to collaborate on the same project in real time. Overall, these extensions make coding easier, improve code quality, and support teamwork.
